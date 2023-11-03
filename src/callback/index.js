@@ -17,4 +17,3 @@ function grettin(name){
 }
 
 setTimeout(grettin, 3000,'Juanma');
-
